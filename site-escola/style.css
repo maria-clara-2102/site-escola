@@ -1,0 +1,24 @@
+*{
+    margin: 0 40px;
+    padding: 40px 0;
+    }
+.cabecalho {
+    width: 100%;
+    background-color: #1403d5;
+    color :white;
+    display:flex;
+    justify-content: space-around;
+    padding:40 px 0;
+}
+.cabecalho-imagem{
+    width: 25%;
+    }
+.cabecalho-lista-item{
+    display:inline-block;
+    }
+.cabecalho-lita-item{
+    display: inline-block;
+    margin:0 40px;
+    padding:40 px 0;
+    font-size: 40px;
+    }
